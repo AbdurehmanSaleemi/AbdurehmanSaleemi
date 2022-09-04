@@ -6,7 +6,7 @@
 ### <div align="center">I'm Abdurehman, a Computer Science student and Self Taught Developer 😃</div>  
   
 
-- 🔭 I’m currently working on [Weather App](https://github.com/AbdurehmanSaleemi/weather-app-react)  
+- 🔭 I’m currently working on [Material Design 3 React Library](https://github.com/AbdurehmanSaleemi/Material-Design-3-React)
   
 
 - 🌱 I’m currently learning ReactJS and NodeJS  
