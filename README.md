@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Material Design 3 React Library](https://github.com/AbdurehmanSaleemi/Material-Design-3-React)
   
 
-- 🌱 I’m currently learning ReactJS and NodeJS  
+- 🌱 I’m currently learning MongoDB & Restful API.
   
 
 - ❓ Ask me about anything related to Linux, C++, TailwindCSS, Flutter, ReactJS  
