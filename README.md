@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abdurehman, a Computer Science student and Self Taught Developer 😃</div>  
+### <div align="center">I'm Abdurehman, a Computer Science student and Self Taught UI Designer & Developer 😃</div>  
   
 
 - 🔭 I’m currently working on [Material Design 3 React Library](https://github.com/AbdurehmanSaleemi/Material-Design-3-React)
