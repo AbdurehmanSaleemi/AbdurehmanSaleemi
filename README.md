@@ -2,7 +2,7 @@
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" align="center" style="width: 100%" />
 </div>  
   
-
+<a href="https://app.daily.dev/saleemi"><img src="https://api.daily.dev/devcards/d2b9ec5f191340c5bc41bdf5061fe620.png?r=ffp" width="400" alt="Abdurehman Saleemi's Dev Card"/></a>
 ### <div align="center">I'm Abdurehman, a Computer Science student and Self Taught UI Designer & Developer 😃</div>  
   
 
